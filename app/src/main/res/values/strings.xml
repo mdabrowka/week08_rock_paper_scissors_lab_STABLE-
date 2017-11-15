@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="pick_a_move">Pick a move</string>
+    <string name="result" />
+    <string name="welcome_page">Welcome to our game! \n £0.29 per play. \n \n Rules: \n Rock beats Scissors beats Paper beats Rock \n (Two of the same results in a draw) \n \n Good luck!</string>
+    <string name="play_again">Play again!</string>
+</resources>
